@@ -1,0 +1,25 @@
+* Attest Landing Page
+
+** Quickstart
+
+   Install dependencies
+   #+begin_src bash
+     yarn
+     precommit install
+   #+end_src
+
+   Start dev server
+   #+begin_src bash
+     yarn start
+   #+end_src
+
+   Start storybook
+   #+begin_src bash
+     yarn storybook
+   #+end_src
+
+   Run Cypress tests
+   #+begin_src bash
+     yarn cypress
+   #+end_src
+   
